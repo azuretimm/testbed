@@ -11,3 +11,4 @@ for files in os.listdir():
         fr.close()
 fw.close()
 '''this is another test edit'''
+'''this is a test of merge'''
