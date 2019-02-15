@@ -1,5 +1,1 @@
-# testbed
-git test
-this is a test
-bad
-gen8
+git remote add gen8 ssh://git@h.nbigv.org:4445/ATM/testbed.git
